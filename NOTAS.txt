@@ -1,0 +1,6 @@
+
+1.realizar cambios (status)
+2.preguardar cambios(add)
+3.guardar cambios (commit)
+
+Profesor: Uziel + y z
